@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>ListCategoryViewer</name>
+	<displayName><![CDATA[List Category Viewer]]></displayName>
+	<version><![CDATA[1.0.1]]></version>
+	<description><![CDATA[Il modulo permette la visualizzazione delle sottocategorie nella lista prodotti]]></description>
+	<author><![CDATA[Salvatore Forino]]></author>
+	<tab><![CDATA[front_office_features]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+</module>
