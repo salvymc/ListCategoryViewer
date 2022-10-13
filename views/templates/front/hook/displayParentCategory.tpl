@@ -25,6 +25,8 @@
     {/if}
     {/if}
 
+{** Se non ci sono sottocategorie ripete le categorie superiori per facilitare lo switch
+
 {if isset($category_switcher) && empty($subcategories)}
     <!-- Subcategories -->
     <div id="subcategories">
@@ -46,3 +48,4 @@
         </ul>
     </div>
 {/if}
+*}
